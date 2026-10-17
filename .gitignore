@@ -1,0 +1,18 @@
+# Showcase: admitir solo documentación y capturas en ubicaciones conocidas.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/DERECHOS.md
+!/docs/
+/docs/*
+!/docs/*.md
+!/assets/
+/assets/*
+!/assets/screenshots/
+/assets/screenshots/*
+!/assets/screenshots/README.md
+!/assets/screenshots/*.png
+!/assets/screenshots/*.jpg
+!/assets/screenshots/*.jpeg
+!/assets/screenshots/*.webp
