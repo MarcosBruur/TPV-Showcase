@@ -126,3 +126,7 @@ Historial de turnos con fondo inicial, movimientos de efectivo, saldo esperado y
 Este material permite evaluar la estructura y el comportamiento del sistema sin distribuir su implementación. No se incluyen bases de datos, certificados, credenciales, documentos fiscales reales ni artefactos compilados.
 
 Consultar [derechos y uso del material](DERECHOS.md).
+
+## Descarga
+
+https://github.com/MarcosBruur/TPV-Showcase/releases/latest
